@@ -2,7 +2,7 @@
 // q 9
 
 
-include <iostream>
+#include <iostream>
 using namespace std;
 int fac(int n)
     {if (n>1)
